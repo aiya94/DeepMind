@@ -2,7 +2,7 @@
    "id":"nextId()",
    "name":"IMPALA",
    "description":"Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures",
-   "tasks":[
+   "tasks":{
       {
          "id":"mem_1",
          "name":"Blackjack",
@@ -39,5 +39,5 @@
          "category":"planning",
          "score":58
       }
-   ]
+      }
 }
