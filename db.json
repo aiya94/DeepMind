@@ -1,14 +1,4 @@
 {
-  "name": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "aiya": "Mukhamedsalova",
    "employees": [
     {
       "id": 1,
