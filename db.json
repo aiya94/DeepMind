@@ -1,45 +1,44 @@
-
 {
-  id: nextId(),
-  name: 'IMPALA',
-  description: 'Scalable Distributed Deep-RL with Importance Weighted
-  Actor-Learner Architectures',
-  tasks: [
-  {
-  id: 'mem_1',
-  name: 'Blackjack',
-  category: 'memory',
-  score: 56,
-  },
-  {
-  id: 'mem_2',
-  name: 'Q-bert',
-  category: 'memory',
-  score: 61,
-  },
-  {
-  id: 'logic_1',
-  name: 'Breakout',
-  category: 'logic',
-  score: 79,
-  },
-  {
-  id: 'logic_2',
-  name: 'Tetris',
-  category: 'logic',
-  score: 21,
-  },
-  {
-  id: 'logic_3',
-  name: 'Basic Math',
-  category: 'logic',
-  score: 54,
-  },
-  {
-  id: 'planning_1',
-  name: 'Pacman',
-  category: 'planning',
-  score: 58,
-  }
-  ]
+"id": "nextId()",
+"name": "IMPALA",
+"description": "Scalable Distributed Deep-RL with Importance Weighted
+Actor-Learner Architectures",
+"tasks": [
+    {
+    "id": "mem_1",
+    "name": "Blackjack",
+    "category": "memory",
+    "score": 56,
+    },
+    {
+    "id": "mem_2",
+    "name": "Q-bert",
+    "category": "memory",
+    "score": 61,
+    },
+    {
+    "id": "logic_1",
+    "name": "Breakout",
+    "category": "logic",
+    "score": 79,
+    },
+    {
+    "id": "logic_2",
+    "name": "Tetris",
+    "category": "logic",
+    "score": 21,
+    },
+    {
+    "id": "logic_3",
+    "name": "Basic Math",
+    "category": "logic",
+    "score": 54,
+    },
+    {
+    "id": "planning_1",
+    "name": "Pacman",
+    "category": "planning",
+    "score": 58,
+    },
+  ],
 }
