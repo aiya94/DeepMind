@@ -1,5 +1,4 @@
-{
-  "agents": [
+
     {
       "id": "nextId()",
       "name": "IMPALA",
@@ -97,7 +96,5 @@
           "category": "planning",
           "score": 72
         }
-      ]
-    }
   ]
 }
