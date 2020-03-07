@@ -1,8 +1,7 @@
 {
 "id": "nextId()",
 "name": "IMPALA",
-"description": "Scalable Distributed Deep-RL with Importance Weighted
-Actor-Learner Architectures",
+"description": "Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures",
 "tasks": [
     {
     "id": "mem_1",
