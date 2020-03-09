@@ -1,7 +1,7 @@
 I have created small project  using React framework which run on modern Browser. Project is mobile and laptop friendly for all devices. I build only one unit testing for one components.
 
 
-### `yarn start` or `npm start`
+### `yarn start` or `npm start` run in <my-app>
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
