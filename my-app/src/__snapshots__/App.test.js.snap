@@ -1,0 +1,1063 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders AgentComparison Componenets 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="addMargin"
+      >
+        <h2>
+          AI 
+          <span
+            class="badge badge-secondary"
+          >
+            Comparison
+          </span>
+        </h2>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="addMargin"
+    >
+      <h2>
+        AI 
+        <span
+          class="badge badge-secondary"
+        >
+          Comparison
+        </span>
+      </h2>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`renders AgentList Componenets 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="addMargin"
+      >
+        <h2>
+          AI 
+          <span
+            class="badge badge-secondary"
+          >
+            Page
+          </span>
+        </h2>
+        <div
+          class="container"
+        >
+          <div
+            class="row"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="addMargin"
+    >
+      <h2>
+        AI 
+        <span
+          class="badge badge-secondary"
+        >
+          Page
+        </span>
+      </h2>
+      <div
+        class="container"
+      >
+        <div
+          class="row"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`renders AgentsGeneral Componenets 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="addMargin"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="row"
+          >
+            <div
+              class="col-sm-3"
+            >
+              <div
+                class="flex-column nav nav-pills"
+                role="tablist"
+              >
+                <div
+                  class="nav-item"
+                >
+                  <a
+                    aria-controls="left-tabs-example-tabpane-first"
+                    aria-selected="true"
+                    class="nav-link active"
+                    data-rb-event-key="first"
+                    href="#"
+                    id="left-tabs-example-tab-first"
+                    role="tab"
+                  >
+                    IMPALA
+                  </a>
+                </div>
+                <div
+                  class="nav-item"
+                >
+                  <a
+                    aria-controls="left-tabs-example-tabpane-second"
+                    aria-selected="false"
+                    class="nav-link"
+                    data-rb-event-key="second"
+                    href="#"
+                    id="left-tabs-example-tab-second"
+                    role="tab"
+                    tabindex="-1"
+                  >
+                    AlphaZero
+                  </a>
+                </div>
+                <div
+                  class="nav-item"
+                >
+                  <a
+                    aria-controls="left-tabs-example-tabpane-third"
+                    aria-selected="false"
+                    class="nav-link"
+                    data-rb-event-key="third"
+                    href="#"
+                    id="left-tabs-example-tab-third"
+                    role="tab"
+                    tabindex="-1"
+                  >
+                    R2D3
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="col-sm-9"
+            >
+              <div
+                class="tab-content"
+              >
+                <div
+                  aria-hidden="false"
+                  aria-labelledby="left-tabs-example-tab-first"
+                  class="fade tab-pane active show"
+                  id="left-tabs-example-tabpane-first"
+                  role="tabpanel"
+                >
+                  <div>
+                    <canvas
+                      height="150"
+                      width="300"
+                    />
+                  </div>
+                </div>
+                <div
+                  aria-hidden="true"
+                  aria-labelledby="left-tabs-example-tab-second"
+                  class="fade tab-pane"
+                  id="left-tabs-example-tabpane-second"
+                  role="tabpanel"
+                >
+                  <div>
+                    <canvas
+                      height="150"
+                      width="300"
+                    />
+                  </div>
+                </div>
+                <div
+                  aria-hidden="true"
+                  aria-labelledby="left-tabs-example-tab-third"
+                  class="fade tab-pane"
+                  id="left-tabs-example-tabpane-third"
+                  role="tabpanel"
+                >
+                  <div>
+                    <canvas
+                      height="150"
+                      width="300"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="addMargin"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col-sm-3"
+          >
+            <div
+              class="flex-column nav nav-pills"
+              role="tablist"
+            >
+              <div
+                class="nav-item"
+              >
+                <a
+                  aria-controls="left-tabs-example-tabpane-first"
+                  aria-selected="true"
+                  class="nav-link active"
+                  data-rb-event-key="first"
+                  href="#"
+                  id="left-tabs-example-tab-first"
+                  role="tab"
+                >
+                  IMPALA
+                </a>
+              </div>
+              <div
+                class="nav-item"
+              >
+                <a
+                  aria-controls="left-tabs-example-tabpane-second"
+                  aria-selected="false"
+                  class="nav-link"
+                  data-rb-event-key="second"
+                  href="#"
+                  id="left-tabs-example-tab-second"
+                  role="tab"
+                  tabindex="-1"
+                >
+                  AlphaZero
+                </a>
+              </div>
+              <div
+                class="nav-item"
+              >
+                <a
+                  aria-controls="left-tabs-example-tabpane-third"
+                  aria-selected="false"
+                  class="nav-link"
+                  data-rb-event-key="third"
+                  href="#"
+                  id="left-tabs-example-tab-third"
+                  role="tab"
+                  tabindex="-1"
+                >
+                  R2D3
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            class="col-sm-9"
+          >
+            <div
+              class="tab-content"
+            >
+              <div
+                aria-hidden="false"
+                aria-labelledby="left-tabs-example-tab-first"
+                class="fade tab-pane active show"
+                id="left-tabs-example-tabpane-first"
+                role="tabpanel"
+              >
+                <div>
+                  <canvas
+                    height="150"
+                    width="300"
+                  />
+                </div>
+              </div>
+              <div
+                aria-hidden="true"
+                aria-labelledby="left-tabs-example-tab-second"
+                class="fade tab-pane"
+                id="left-tabs-example-tabpane-second"
+                role="tabpanel"
+              >
+                <div>
+                  <canvas
+                    height="150"
+                    width="300"
+                  />
+                </div>
+              </div>
+              <div
+                aria-hidden="true"
+                aria-labelledby="left-tabs-example-tab-third"
+                class="fade tab-pane"
+                id="left-tabs-example-tabpane-third"
+                role="tabpanel"
+              >
+                <div>
+                  <canvas
+                    height="150"
+                    width="300"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`renders App 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <div
+          class="addMargin"
+        >
+          <h2>
+            AI 
+            <span
+              class="badge badge-secondary"
+            >
+              Page
+            </span>
+          </h2>
+          <div
+            class="container"
+          >
+            <div
+              class="row"
+            />
+          </div>
+        </div>
+        <div
+          class="container"
+        >
+          <div
+            class="row"
+          >
+            <div
+              class="col-md-6"
+            >
+              <div>
+                <canvas
+                  height="150"
+                  width="300"
+                />
+              </div>
+            </div>
+            <div
+              class="col-md-6"
+            >
+              <div>
+                <canvas
+                  height="150"
+                  width="300"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="addMargin"
+        >
+          <h2>
+            AI 
+            <span
+              class="badge badge-secondary"
+            >
+              Comparison
+            </span>
+          </h2>
+        </div>
+        <div
+          class="addMargin"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="row"
+            >
+              <div
+                class="col-sm-3"
+              >
+                <div
+                  class="flex-column nav nav-pills"
+                  role="tablist"
+                >
+                  <div
+                    class="nav-item"
+                  >
+                    <a
+                      aria-controls="left-tabs-example-tabpane-first"
+                      aria-selected="true"
+                      class="nav-link active"
+                      data-rb-event-key="first"
+                      href="#"
+                      id="left-tabs-example-tab-first"
+                      role="tab"
+                    >
+                      IMPALA
+                    </a>
+                  </div>
+                  <div
+                    class="nav-item"
+                  >
+                    <a
+                      aria-controls="left-tabs-example-tabpane-second"
+                      aria-selected="false"
+                      class="nav-link"
+                      data-rb-event-key="second"
+                      href="#"
+                      id="left-tabs-example-tab-second"
+                      role="tab"
+                      tabindex="-1"
+                    >
+                      AlphaZero
+                    </a>
+                  </div>
+                  <div
+                    class="nav-item"
+                  >
+                    <a
+                      aria-controls="left-tabs-example-tabpane-third"
+                      aria-selected="false"
+                      class="nav-link"
+                      data-rb-event-key="third"
+                      href="#"
+                      id="left-tabs-example-tab-third"
+                      role="tab"
+                      tabindex="-1"
+                    >
+                      R2D3
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="col-sm-9"
+              >
+                <div
+                  class="tab-content"
+                >
+                  <div
+                    aria-hidden="false"
+                    aria-labelledby="left-tabs-example-tab-first"
+                    class="fade tab-pane active show"
+                    id="left-tabs-example-tabpane-first"
+                    role="tabpanel"
+                  >
+                    <div>
+                      <canvas
+                        height="150"
+                        width="300"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    aria-hidden="true"
+                    aria-labelledby="left-tabs-example-tab-second"
+                    class="fade tab-pane"
+                    id="left-tabs-example-tabpane-second"
+                    role="tabpanel"
+                  >
+                    <div>
+                      <canvas
+                        height="150"
+                        width="300"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    aria-hidden="true"
+                    aria-labelledby="left-tabs-example-tab-third"
+                    class="fade tab-pane"
+                    id="left-tabs-example-tabpane-third"
+                    role="tabpanel"
+                  >
+                    <div>
+                      <canvas
+                        height="150"
+                        width="300"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <div
+        class="addMargin"
+      >
+        <h2>
+          AI 
+          <span
+            class="badge badge-secondary"
+          >
+            Page
+          </span>
+        </h2>
+        <div
+          class="container"
+        >
+          <div
+            class="row"
+          />
+        </div>
+      </div>
+      <div
+        class="container"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col-md-6"
+          >
+            <div>
+              <canvas
+                height="150"
+                width="300"
+              />
+            </div>
+          </div>
+          <div
+            class="col-md-6"
+          >
+            <div>
+              <canvas
+                height="150"
+                width="300"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="addMargin"
+      >
+        <h2>
+          AI 
+          <span
+            class="badge badge-secondary"
+          >
+            Comparison
+          </span>
+        </h2>
+      </div>
+      <div
+        class="addMargin"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="row"
+          >
+            <div
+              class="col-sm-3"
+            >
+              <div
+                class="flex-column nav nav-pills"
+                role="tablist"
+              >
+                <div
+                  class="nav-item"
+                >
+                  <a
+                    aria-controls="left-tabs-example-tabpane-first"
+                    aria-selected="true"
+                    class="nav-link active"
+                    data-rb-event-key="first"
+                    href="#"
+                    id="left-tabs-example-tab-first"
+                    role="tab"
+                  >
+                    IMPALA
+                  </a>
+                </div>
+                <div
+                  class="nav-item"
+                >
+                  <a
+                    aria-controls="left-tabs-example-tabpane-second"
+                    aria-selected="false"
+                    class="nav-link"
+                    data-rb-event-key="second"
+                    href="#"
+                    id="left-tabs-example-tab-second"
+                    role="tab"
+                    tabindex="-1"
+                  >
+                    AlphaZero
+                  </a>
+                </div>
+                <div
+                  class="nav-item"
+                >
+                  <a
+                    aria-controls="left-tabs-example-tabpane-third"
+                    aria-selected="false"
+                    class="nav-link"
+                    data-rb-event-key="third"
+                    href="#"
+                    id="left-tabs-example-tab-third"
+                    role="tab"
+                    tabindex="-1"
+                  >
+                    R2D3
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="col-sm-9"
+            >
+              <div
+                class="tab-content"
+              >
+                <div
+                  aria-hidden="false"
+                  aria-labelledby="left-tabs-example-tab-first"
+                  class="fade tab-pane active show"
+                  id="left-tabs-example-tabpane-first"
+                  role="tabpanel"
+                >
+                  <div>
+                    <canvas
+                      height="150"
+                      width="300"
+                    />
+                  </div>
+                </div>
+                <div
+                  aria-hidden="true"
+                  aria-labelledby="left-tabs-example-tab-second"
+                  class="fade tab-pane"
+                  id="left-tabs-example-tabpane-second"
+                  role="tabpanel"
+                >
+                  <div>
+                    <canvas
+                      height="150"
+                      width="300"
+                    />
+                  </div>
+                </div>
+                <div
+                  aria-hidden="true"
+                  aria-labelledby="left-tabs-example-tab-third"
+                  class="fade tab-pane"
+                  id="left-tabs-example-tabpane-third"
+                  role="tabpanel"
+                >
+                  <div>
+                    <canvas
+                      height="150"
+                      width="300"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`renders BarChartComponent Componenets 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <canvas
+          height="150"
+          width="300"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <canvas
+        height="150"
+        width="300"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`renders ImpalaChart Componenets 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <canvas
+          height="150"
+          width="300"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <canvas
+        height="150"
+        width="300"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
