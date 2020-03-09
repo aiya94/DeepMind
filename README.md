@@ -1,4 +1,4 @@
-I have created small project  using React framework which run on modern Browser. Project mobile and laptop friendly for all devices. I build only one unit testing for one components.
+I have created small project  using React framework which run on modern Browser. Project is mobile and laptop friendly for all devices. I build only one unit testing for one components.
 
 
 ### `yarn start` or `npm start`
